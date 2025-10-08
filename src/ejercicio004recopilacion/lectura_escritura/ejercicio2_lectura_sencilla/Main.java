@@ -1,4 +1,4 @@
-package ejercicios004.lectura_escritura.ejercicio2_lectura_sencilla;
+package ejercicio004recopilacion.lectura_escritura.ejercicio2_lectura_sencilla;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
